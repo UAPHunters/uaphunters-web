@@ -42,7 +42,6 @@ Here are some ideas and best practices for getting best results
 #### Other devices to consider
 
 - Night vision cameras
-- Infra red cameras
 - Infrared/Thermal imaging cameras
 - Drones
 - Radar?!
