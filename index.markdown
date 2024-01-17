@@ -7,13 +7,15 @@ layout: page
 
 ### Problem statement
 
-Currently, our understanding of UAP/UFO phenomena relies on slow-drip leaks, incomplete low-quality videos from questionable sources, and information of unknown integrity. The truth has been unfairly restricted to the chosen few for too long.
+Currently, our understanding of UAP/UFO phenomena relies on slow-drip leaks, incomplete low-quality videos from questionable sources, and information of unknown integrity. The truth has been unfairly restricted to the chosen few for too long.  
 
  
 
 ### The proposal
 
-If the UAP/UFO phenomon is as prevalent as many believe, we should be able to collect our own data. Let’s switch the focus to collecting high quality images, video, and other data ourselves. Let’s make this data available to all.
+If the UAP/UFO phenomon is as prevalent as many believe, we should be able to collect our own data.  
+
+Let’s switch the focus to collecting high quality images, video, and other data ourselves. Let’s make this data available to everyone.
 
 Instead of waiting for the next leak or spending time analyizing random posts, let’s go out and find these things.
 
@@ -30,8 +32,10 @@ UAPHunters.net is designed to be fully open source and transparent. The code for
 As a sort of “data-collection charter”, here are some ideas and best practices
 
 - Research and pick a camera with a high-quality lens that will do well at night. Typically low-apature, zoom lenses would work best. Practice and learn how to get the best results when recording in low light.
-- Where possible, have more than one camera recording
-- More than one person, ideally - multiple witness statements can really help
+- Where possible, have more than one camera recording.
+- A cell phone may make a good secondary camera, but typically wont provide adequate levels of low-light performance.
+- More than one person, ideally - multiple witness statements can really help.
+
 
 
 #### Other devices to consider
@@ -44,7 +48,7 @@ As a sort of “data-collection charter”, here are some ideas and best practic
 - Dashcams or Bodycams always recording could be very helpful
 
 
-A variety of sensors is encouraged so we can correlate and corroborate the data. By combining multiple video/data sources, we can help verify the collected videos are real.
+A variety of sensors is encouraged so we can correlate and corroborate the data. By combining multiple video/data sources, we can help verify the collected videos are real.  
 
 #### Device settings
 
@@ -67,10 +71,10 @@ Any files shared will be considered public domain. The original create will of c
 
 Submit a report by following the simple process below.
 
-1. Collect all the data from your report so it’s ready to go
-1. Include a “field report” or “submission statement” with the files. A simple text file is fine. Include as much detail as you can about your experience. Where you went. The timings.
+1. Collect all the data/files from your report so they are ready to go
+1. Include a “field report” or “submission statement” with the files. A simple text file is fine. Include as much detail as you can about your experience. Where you went. The timings. If more than one witness was present, ask them to write their own statement. 
 1. Upload the files to Dropbox or something similar
-1. Email the link to the files to [reports@uaphunters.net](mailto:reports@uaphunters.net)
+1. Email the private link to the files to [reports@uaphunters.net](mailto:reports@uaphunters.net)
 
 
 
