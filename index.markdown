@@ -8,7 +8,6 @@ layout: page
 ### Problem statement
 
 Currently, our understanding of UAP/UFO phenomena relies on slow-drip leaks, incomplete low-quality videos from questionable sources, and information of unknown integrity. The truth has been unfairly restricted to the chosen few for too long.  
-
  
 
 ### The proposal
@@ -21,7 +20,8 @@ Instead of waiting for the next leak or spending time analyizing random posts, l
 
 A change in mindset is needed to switch to a proactive search, transparently sharing all data collected. This site aims to serve as a reference for some practical tips, as well as publishing any submitted reports.
 
-A proactive search could be as simple as getting in your truck with a buddy and staking out a known UFO hotspot.
+A proactive search could be as simple as getting in your truck with a buddy and staking out a known UFO hotspot. Governments around the world have shown that they are not willing to do the right thing. It may be that the best way to truly advance this topic is if we take matters into our own hands, get out into the world and see what we can find.  
+
 
 UAPHunters.net is designed to be fully open source and transparent. The code for this site is on GitHub, and anyone is free to contribute to the project and suggest changes [here](https://github.com/UAPHunters/uaphunters-web).
 
