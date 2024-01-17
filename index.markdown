@@ -29,9 +29,10 @@ UAPHunters.net is designed to be fully open source and transparent. The code for
 
 ### Methodology
 
-As a sort of “data-collection charter”, here are some ideas and best practices
+Here are some ideas and best practices for getting best results  
 
-- Research and pick a camera with a high-quality lens that will do well at night. Typically low-apature, zoom lenses would work best. Practice and learn how to get the best results when recording in low light.
+- Research and pick a camera with a high-quality lens that will do well at night. Typically low-apature, zoom lenses would work best. 
+- Practice and learn how to get the best results when recording in low light.
 - Where possible, have more than one camera recording.
 - A cell phone may make a good secondary camera, but typically wont provide adequate levels of low-light performance.
 - More than one person, ideally - multiple witness statements can really help.
