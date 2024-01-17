@@ -7,7 +7,7 @@ layout: page
 
 ### Problem statement
 
-Currently, our understanding of UAP/UFO phenomena relies on slow-drip leaks, incomplete low-quality videos from questionable sources, and information of unknown integrity. The truth has been disproportionately restricted to the chosen few for too long.
+Currently, our understanding of UAP/UFO phenomena relies on slow-drip leaks, incomplete low-quality videos from questionable sources, and information of unknown integrity. The truth has been unfairly restricted to the chosen few for too long.
 
  
 
@@ -38,8 +38,9 @@ As a sort of “data-collection charter”, here are some ideas and best practic
 
 - Night vision cameras
 - Infra red cameras
-- Heat detection cameras
+- Infrared/Thermal imaging cameras
 - Drones
+- Radar?!
 - Dashcams or Bodycams always recording could be very helpful
 
 
@@ -56,9 +57,9 @@ Make sure the date/time on your devices is set correctly.
 
 ### Data sharing
 
-All original files will be made available for free via this project. The original files will not be modified in any way, simply shared so that anyone interested can scrutinize the originals.
+All original files will be made available for free via this project. The original files will not be modified in any way, simply shared so that anyone interested can scrutinize the originals. If/when we receive any reports, an entry will be posted on this site. If this idea gains any traction, we may create a podcast with interviews for anyone willing. 
 
-The original source of the media will retain all rights, and is free to share them on other social media, news, etc. The key here is that the original files will be available, with all original metadata intact.
+Any files shared will be considered public domain. The original create will of course be free to share them on other social media, news, etc. The key here is that the original files will be available, with all original metadata intact.
 
 &nbsp;
 
@@ -70,6 +71,7 @@ Submit a report by following the simple process below.
 1. Include a “field report” or “submission statement” with the files. A simple text file is fine. Include as much detail as you can about your experience. Where you went. The timings.
 1. Upload the files to Dropbox or something similar
 1. Email the link to the files to [reports@uaphunters.net](mailto:reports@uaphunters.net)
+
 
 
 Reports will be validated for spam/abuse/etc and then uploaded to a public S3 Bucket. At which point a link to the data will be posted on this site. In the interests of transparency, any rejected reports will be logged on a page here, including the reason for rejection and any supporting evidence.
