@@ -52,9 +52,9 @@ A variety of sensors is encouraged so we can correlate and corroborate the data.
 
 #### Device settings
 
-Enable all metadata properties on your cameras.
-Enable GPS if available.
-Make sure the date/time on your devices is set correctly.
+- Enable all metadata properties on your cameras.
+- Enable GPS if available.
+- Make sure the date/time on your devices is set correctly!
 
 &nbsp;
 
