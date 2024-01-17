@@ -23,23 +23,23 @@ A proactive search could be as simple as getting in your truck with a buddy and 
 
 UAPHunters.net is designed to be fully open source and transparent. The code for this site is on GitHub, and anyone is free to contribute to the project and suggest changes [here](https://github.com/UAPHunters/uaphunters-web).
 
- 
+&nbsp;
 
 ### Methodology
 
 As a sort of “data-collection charter”, here are some ideas and best practices
 
+- Research and pick a camera with a high-quality lens that will do well at night. Typically low-apature, zoom lenses would work best. Practice and learn how to get the best results when recording in low light.
 - Where possible, have more than one camera recording
 - More than one person, ideally - multiple witness statements can really help
 
 
-#### Examples of other devices
+#### Other devices to consider
 
 - Night vision cameras
 - Infra red cameras
 - Heat detection cameras
 - Drones
-- Drones with “bait”
 - Dashcams or Bodycams always recording could be very helpful
 
 
@@ -50,7 +50,9 @@ A variety of sensors is encouraged so we can correlate and corroborate the data.
 Enable all metadata properties on your cameras.
 Enable GPS if available.
 Make sure the date/time on your devices is set correctly.
- 
+
+&nbsp;
+
 
 ### Data sharing
 
@@ -58,7 +60,7 @@ All original files will be made available for free via this project. The origina
 
 The original source of the media will retain all rights, and is free to share them on other social media, news, etc. The key here is that the original files will be available, with all original metadata intact.
 
- 
+&nbsp;
 
 ### Submitting a report
 
