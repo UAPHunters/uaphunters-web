@@ -8,52 +8,66 @@ layout: page
 ### Problem statement
 
 Currently, our understanding of UAP/UFO phenomena relies on slow-drip leaks, incomplete low-quality videos from questionable sources, and information of unknown integrity. The truth has been unfairly restricted to the chosen few for too long.  
+
+Governmental secrecy has fostered an atmosphere of public mistrust. Legitimate inquiry and even scientific research on the UAP topic is near-on impossible due to lack of transparency.   
  
 
 ### The proposal
 
 If the UAP/UFO phenomena is as prevalent as many believe, we should be able to collect our own data.  
 
-Let’s switch the focus to collecting high quality images, video, and other data ourselves. Let’s make this data available to everyone.
+Let’s shift our focus to capturing high-quality images, videos, and other data, making this information accessible to everyone.
 
-Instead of waiting for the next leak or spending time analyzing random posts, let’s go out and find these things.
+Instead of spending time analyzing questionable/incomplete videos, let’s go out and find these things.
 
-A change in mindset is needed to switch to a proactive search, transparently sharing all data collected. This site aims to serve as a reference for some practical tips, as well as publishing any submitted reports.
+A shift in our approach is needed. We should switch to a proactive search, transparently sharing all data collected. This site aims to serve as a reference for some practical tips, as well as publishing any submitted reports and original data files.
 
-A proactive search could be as simple as getting in your truck with a buddy and staking out a known UFO hotspot.  
 
-Governments around the world have shown that they are not willing to do the right thing. It may be that the best way to truly advance this topic is to get out into the world and see what we can find ourselves.  
+A proactive search could be as simple as staking out a known UFO hotspot with a friend. If enough individuals are willing to participate, there's a chance we can make progress without relying on traditional institutions.
+
+Governments worldwide have demonstrated an unwillingness to take the necessary steps. It may be that the most effective way to advance this topic is by venturing ourselves to uncover what we can.
 
 
 UAPHunters.net is designed to be fully open source and transparent. The code for this site is on GitHub, and anyone is free to contribute to the project and suggest changes [here](https://github.com/UAPHunters/uaphunters-web).
 
 &nbsp;
 
-### Methodology
 
+
+### Happy Hunting
+Some points to consider when planning a hunt: 
+
+- Geographic Variety: Choose diverse locations for observations to capture a broader range of potential phenomena. Different environments may yield different results.
+- Time Variability: Vary the times of your observations to account for potential temporal patterns in UAP/UFO sightings. Some phenomena may be more prevalent during specific hours or seasons.
+- Weather Considerations: Take into account weather conditions during your observations. Clear skies may provide better visibility, but adverse weather may also contribute valuable data on how UAP behave in different atmospheric conditions.
+
+**Safety note:** Always tell a friend or relative where you are going and when you expect to be back!  
+
+&nbsp;
+
+### Cameras & Gear
 Here are some ideas and best practices for getting best results  
 
-- Research and pick a camera with a high-quality lens that will do well at night. Typically low-aperture, zoom lenses would work best. 
-- Practice and learn how to get the best results when recording in low light.
-- Where possible, have more than one camera recording.
-- A cell phone may make a good secondary camera, but typically wont provide adequate levels of low-light performance.
+- Select a camera with a high-quality lens suitable for night conditions. Low-aperture, zoom lenses are often effective.
+- Learn how to optimize camera settings for recording in low-light conditions.
+- Whenever possible, use more than one camera to record observations.
+- A cell phone may make a good secondary camera, but typically wont provide adequate levels of low-light performance by itself.
 - More than one person, ideally - multiple witness statements can really help.
 
 
-
 #### Other devices to consider
-
 - Night vision cameras
 - Infrared/Thermal imaging cameras
 - Drones
 - Radar?!
 - Dashcams or Bodycams always recording could be very helpful
+- Environmental sensors - recording environmental conditions such as temperature, wind speed, etc.
+- GPS logger. As well as enabling GPS metadata in your cameras, having a log of your trip could be helpful
 
 
-A variety of sensors is encouraged so we can correlate and corroborate the data. By combining multiple video/data sources, we can help verify the collected videos are real.  
+A variety of sensors is encouraged so the community can correlate and corroborate the data. By combining multiple video/data sources, we can help verify the collected videos are real.  
 
 #### Device settings
-
 - Enable all metadata properties on your cameras.
 - Enable GPS if available.
 - Make sure the date/time on your devices is set correctly!
