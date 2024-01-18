@@ -58,6 +58,7 @@ Here are some ideas and best practices for getting best results
 #### Other devices to consider
 - Night vision cameras
 - Infrared/Thermal imaging cameras
+- Telescopes
 - Drones
 - Radar?!
 - Dashcams or Bodycams always recording could be very helpful
