@@ -12,17 +12,17 @@ Currently, our understanding of UAP/UFO phenomena relies on slow-drip leaks, inc
 
 ### The proposal
 
-If the UAP/UFO phenomon is as prevalent as many believe, we should be able to collect our own data.  
+If the UAP/UFO phenomena is as prevalent as many believe, we should be able to collect our own data.  
 
 Let’s switch the focus to collecting high quality images, video, and other data ourselves. Let’s make this data available to everyone.
 
-Instead of waiting for the next leak or spending time analyizing random posts, let’s go out and find these things.
+Instead of waiting for the next leak or spending time analyzing random posts, let’s go out and find these things.
 
 A change in mindset is needed to switch to a proactive search, transparently sharing all data collected. This site aims to serve as a reference for some practical tips, as well as publishing any submitted reports.
 
 A proactive search could be as simple as getting in your truck with a buddy and staking out a known UFO hotspot.  
 
-Governments around the world have shown that they are not willing to do the right thing. It may be that the best way to truly advance this topic is to take matters into our own hands, get out into the world and see what we can find.  
+Governments around the world have shown that they are not willing to do the right thing. It may be that the best way to truly advance this topic is to get out into the world and see what we can find ourselves.  
 
 
 UAPHunters.net is designed to be fully open source and transparent. The code for this site is on GitHub, and anyone is free to contribute to the project and suggest changes [here](https://github.com/UAPHunters/uaphunters-web).
@@ -33,7 +33,7 @@ UAPHunters.net is designed to be fully open source and transparent. The code for
 
 Here are some ideas and best practices for getting best results  
 
-- Research and pick a camera with a high-quality lens that will do well at night. Typically low-apature, zoom lenses would work best. 
+- Research and pick a camera with a high-quality lens that will do well at night. Typically low-aperture, zoom lenses would work best. 
 - Practice and learn how to get the best results when recording in low light.
 - Where possible, have more than one camera recording.
 - A cell phone may make a good secondary camera, but typically wont provide adequate levels of low-light performance.
