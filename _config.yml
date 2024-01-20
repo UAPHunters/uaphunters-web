@@ -40,7 +40,7 @@ minima:
   social_links:
     - { platform: github,  user_url: "https://github.com/uaphunters" }
     # - { platform: twitter, user_url: "https://twitter.com/TBD" }
-    # - { platform: reddit,  user_url: "https://old.reddit.com/user/UAPHunters/" }
+    - { platform: reddit,  user_url: "https://old.reddit.com/user/UAPHunters/" }
 
 
 
