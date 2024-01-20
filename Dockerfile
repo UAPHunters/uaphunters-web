@@ -31,7 +31,5 @@ EXPOSE 4000
 # build from the image we just built with different metadata
 FROM jekyll as jekyll-serve
 
-# CMD [ "bundle", "exec", "jekyll", "serve", "--force_polling", "-H", "0.0.0.0", "-P", "4000" ]
-
 WORKDIR /site/_site
 CMD ["caddy", "file-server", "--listen", ":4000"]
