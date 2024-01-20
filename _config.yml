@@ -24,14 +24,25 @@ description: >- # this means to ignore newlines until "baseurl:"
   Disclosure through data. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://uaphunters.net" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
-github_username:  uaphunters
-reddit_username: uaphunters
+# twitter_username: TBD
+# github_username:  uaphunters
+# reddit_username: uaphunters
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+
+minima:
+  skin: dark
+  social_links:
+    - { platform: github,  user_url: "https://github.com/uaphunters" }
+    # - { platform: twitter, user_url: "https://twitter.com/TBD" }
+    - { platform: reddit,  user_url: "https://old.reddit.com/user/UAPHunters/" }
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
