@@ -92,6 +92,7 @@ Submit a report by following the process below:
 1. Include a “field report” or “submission statement” with the files. A simple text file is fine. Include as much detail as you can about your experience. Where you went. The timings. If more than one witness was present, ask them to write their own statement. 
 1. Upload the files to Dropbox or something similar
 1. Email the private link to the files to [reports@uaphunters.net](mailto:reports@uaphunters.net)
+1. Include a note in the email stating how/if you would like to be credited for the report, or if it should be published anonymously
 
 
 Reports will be validated for spam/abuse/etc and then uploaded to a public S3 Bucket. At which point a link to the data will be posted on this site. In the interests of transparency, any rejected reports will be logged on a page here, including the reason for rejection and any supporting evidence.
